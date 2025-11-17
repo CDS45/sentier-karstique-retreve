@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 0,
+        "panneau": "Accueil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.002572, 47.989009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 1,
+        "panneau": "Géologie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.005101, 47.990423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 2,
+        "panneau": "Mare forestière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.011232, 47.993899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 3,
+        "panneau": "Formation cavité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.011723, 47.996304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 4,
+        "panneau": "Arbres gîtes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.010902, 48.003206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 5,
+        "panneau": "Gestion forestière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.007192, 48.003048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 6,
+        "panneau": "Faune et Flore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.001357, 48.002978]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 7,
+        "panneau": "La Retrève"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.995608, 48.000771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 8,
+        "panneau": "Vestiges archéologiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.993206, 47.998631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 9,
+        "panneau": "Gouffre des sans ronces"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.990553, 47.994255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "numero": 10,
+        "panneau": "Plongée souterraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.995390, 47.991851]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "parcours",
+        "description": "Chemin reliant les panneaux 0 à 10"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [2.002572, 47.989009],
+          [2.005101, 47.990423],
+          [2.011232, 47.993899],
+          [2.011723, 47.996304],
+          [2.010902, 48.003206],
+          [2.007192, 48.003048],
+          [2.001357, 48.002978],
+          [1.995608, 48.000771],
+          [1.993206, 47.998631],
+          [1.990553, 47.994255],
+          [1.995390, 47.991851]
+        ]
+      }
+    }
+  ]
+}
