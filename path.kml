@@ -85,7 +85,7 @@
       <Point><coordinates>1.99539,47.991851</coordinates></Point>
   </Placemark>
   <Placemark>
-	<description>Chemin reliant les panneaux 0 à 10</description>
+	<description>Sentier Karstique de la Retrève</description>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#path">
 		<SimpleData name="type">parcours</SimpleData>
