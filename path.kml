@@ -86,7 +86,7 @@
   </Placemark>
   <Placemark>
 	<description>Sentier Karstique de la Retrève</description>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>03ac13ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#path">
 		<SimpleData name="type">parcours</SimpleData>
 	</SchemaData></ExtendedData>
