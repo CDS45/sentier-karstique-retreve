@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Style id="panneau">
-  <IconStyle>
-    <scale>1.2</scale>
-    <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon>
-  </IconStyle>
-</Style>
 <Schema name="path" id="path">
 	<SimpleField name="numero" type="int"></SimpleField>
 	<SimpleField name="panneau" type="string"></SimpleField>
@@ -14,7 +8,6 @@
 </Schema>
 <Folder><name>path</name>
   <Placemark>
-	<styleUrl>#panneau</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#path">
 		<SimpleData name="numero">0</SimpleData>
 		<SimpleData name="panneau">Accueil</SimpleData>
@@ -93,7 +86,7 @@
   </Placemark>
   <Placemark>
 	<description>Sentier Karstique de la Retrève</description>
-	<Style><LineStyle><color>00ff00ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#path">
 		<SimpleData name="type">parcours</SimpleData>
 	</SchemaData></ExtendedData>
