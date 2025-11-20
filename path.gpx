@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Sentier Karstique Converter"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+                         http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <name>Sentier Karstique de la Retrève</name>
+    <desc>Waypoints and trail extracted from GeoJSON</desc>
+  </metadata>
+
+  <!-- Waypoints -->
+  <wpt lat="47.989009" lon="2.002572">
+    <name>0 - Accueil</name>
+  </wpt>
+  <wpt lat="47.990423" lon="2.005101">
+    <name>1 - Géologie</name>
+  </wpt>
+  <wpt lat="47.993899" lon="2.011232">
+    <name>2 - Mare forestière</name>
+  </wpt>
+  <wpt lat="47.996304" lon="2.011723">
+    <name>3 - Formation cavité</name>
+  </wpt>
+  <wpt lat="48.003206" lon="2.010902">
+    <name>4 - Arbres gîtes</name>
+  </wpt>
+  <wpt lat="48.003048" lon="2.007192">
+    <name>5 - Gestion forestière</name>
+  </wpt>
+  <wpt lat="48.002978" lon="2.001357">
+    <name>6 - Faune et Flore</name>
+  </wpt>
+  <wpt lat="48.000771" lon="1.995608">
+    <name>7 - La Retrève</name>
+  </wpt>
+  <wpt lat="47.998631" lon="1.993206">
+    <name>8 - Vestiges archéologiques</name>
+  </wpt>
+  <wpt lat="47.994255" lon="1.990553">
+    <name>9 - Gouffre des Sans Ronces</name>
+  </wpt>
+  <wpt lat="47.991851" lon="1.995390">
+    <name>10 - Plongée souterraine</name>
+  </wpt>
+
+  <!-- Track -->
+  <trk>
+    <name>Parcours Sentier Karstique</name>
+    <trkseg>
+      <trkpt lat="47.988764" lon="2.001946"/>
+      <trkpt lat="47.989009" lon="2.002572"/>
+      <trkpt lat="47.990423" lon="2.005101"/>
+      <trkpt lat="47.993899" lon="2.011232"/>
+      <trkpt lat="47.994210" lon="2.011900"/>
+      <trkpt lat="47.996304" lon="2.011723"/>
+      <trkpt lat="48.003170" lon="2.011320"/>
+      <trkpt lat="48.003206" lon="2.010902"/>
+      <trkpt lat="48.003048" lon="2.007192"/>
+      <trkpt lat="48.002978" lon="2.001357"/>
+      <trkpt lat="48.002840" lon="2.000250"/>
+      <trkpt lat="48.001479" lon="1.997676"/>
+      <trkpt lat="48.000780" lon="1.996060"/>
+      <trkpt lat="48.000771" lon="1.995608"/>
+      <trkpt lat="48.000530" lon="1.994530"/>
+      <trkpt lat="47.998631" lon="1.993206"/>
+      <trkpt lat="47.994255" lon="1.990553"/>
+      <trkpt lat="47.994047" lon="1.990705"/>
+      <trkpt lat="47.991851" lon="1.995390"/>
+      <trkpt lat="47.988764" lon="2.001946"/>
+    </trkseg>
+  </trk>
+
+</gpx>
